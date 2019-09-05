@@ -1,0 +1,309 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4214666713763253475
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6800627866868820111, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_Name
+      value: Felix Athhenwockle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.size
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[0].Text
+      value: "Hello, I\u2019m a Detective with Detective without borders.  Can I have
+        a minute of your time?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[1].Text
+      value: "Sure, what\u2019s this about?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[2].Text
+      value: Have you seen anything suspicious lately?  Anyone acting strangely?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[3].Text
+      value: "Is this about Ms. Jennifer?  I haven\u2019t seen anything, it was a
+        total shock to me."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[4].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[4].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[5].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[5].Text
+      value: Most people on this Island like it because of the peace and quiet.  They
+        came here to get away from the hustle and bustle of the mainland, so mostly
+        we keep to ourselves.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].Text
+      value: I use the beach on my side of the Island, and she uses the beach closest
+        to her house.  The only time I usually see her is when she bakes a fresh pie,
+        but she stopped delivering them a while back.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[7].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[7].Text
+      value: Do you know why she stopped bringing you pies?  How long ago was this?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].Text
+      value: "Maybe about 6 months ago?  And I don\u2019t really know, maybe it was
+        her way of telling me to cut back a little?  It was strange, but I would never
+        hold it against her."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[9].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[9].Text
+      value: Thank you for your time.  Can I get your name for the report?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[10].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[10].Text
+      value: My name is Felix Athhenwockle.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[11].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[11].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[12].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[12].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[13].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[13].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[14].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[14].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[15].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[15].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[16].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[16].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[17].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[17].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[18].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[18].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[19].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[19].Text
+      value: What was your relationship with Ms. Jennifer? Did you interact often?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[10].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Name
+      value: Felix Athhenwockle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _prompt
+      value: Talk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _TempName
+      value: Mysterious Person
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Note
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c99bd23273dea84da6b59754d7ffa16, type: 3}

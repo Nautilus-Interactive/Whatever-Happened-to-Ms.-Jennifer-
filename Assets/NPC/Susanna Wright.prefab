@@ -1,0 +1,359 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8699446640220483997
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6800627866868820111, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_Name
+      value: Susanna Wright
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.size
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[0].Text
+      value: "Hello, I\u2019m a Detective with Detective without borders.  Could I
+        talk to you about what happened"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Name
+      value: Susanna Wright
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _prompt
+      value: Talk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _TempName
+      value: Mysterious Person
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[1].Text
+      value: "You may, but stay at the door!  I\u2019m not letting anyone in, until
+        the killer is caught."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[1].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[2].Text
+      value: What is your name Miss?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[3].Text
+      value: My name is Susanna Wright.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[3].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[4].Text
+      value: How are you holding up?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[4].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[4].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[5].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[5].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[5].Text
+      value: "Miss Jennifer was the closest friend I had on the island.  I can\u2019t
+        believe that she\u2019s gone.  I can\u2019t believe anyone would hurt her."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].Text
+      value: What did you two do together?  How did you spend your time?  Did she
+        mention anyone that had a tough time getting along with her?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[7].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[7].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[7].Text
+      value: She taught me everything I know about gardening.  She would listen to
+        all of my problems, and give me advise if I needed it.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].Text
+      value: "She would frequently talk of her children, where they were now, and
+        how proud she was of them and their careers.  She was a doting mother, even
+        if her children don\u2019t visit."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[9].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[9].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[9].Text
+      value: "You didn\u2019t answer my last question.  Did she have anyone that she
+        struggled to get along?  Or anyone from her past that might have had a grudge
+        for some reason?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[10].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[10].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[10].Text
+      value: There is a grumpy retiree named Gary, who used to complain about how
+        chatty Ms.Jennifer was.  He said that her voice would carry across the water,
+        and when she was at the beach he could hear her at his house.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[11].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[11].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[11].Text
+      value: Has this Gary said or done anything that seems unusual recently?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[12].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[12].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[12].Text
+      value: "Well, he has turned into somewhat of a recluse over the last couple
+        of years, I don\u2019t know the last time I saw him.  He would sometimes yell
+        at Ms. Jennifer and I if he thought we were being too loud, so I didn\u2019t
+        really mind when we stopped seeing him so often."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[13].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[13].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[13].Text
+      value: What about this Felix Athhenwockle?  He said within the last 6 months
+        that Miss Jennifer had stopped delivering pies to him.  Do you know why that
+        was?  Was there any bad blood between them?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[14].Player
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[14].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[14].Text
+      value: "Him? No, it was nothing like that. When his family came to visit, Miss
+        Jennifer and I we\u2019re having a nice chat with them, and they mentioned
+        Felix had Diabetes. I think Miss Jennifer couldn\u2019t in good conscious
+        give him one of her pies because of that."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[15].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[15].Text
+      value: "He didn\u2019t mention that. Thank you for your time, this has been
+        a big help."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[16].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[16].Text
+      value: "Him? No, it was nothing like that. When his family came to visit, Miss
+        Jennifer and I we\u2019re having a nice chat with them, and they mentioned
+        Felix had Diabetes. I think Miss Jennifer couldn\u2019t in good conscious
+        give him one of her pies because of that."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[15].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Note
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c99bd23273dea84da6b59754d7ffa16, type: 3}

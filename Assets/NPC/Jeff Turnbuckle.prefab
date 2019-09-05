@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5571734190256187126
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6800627866868820111, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_Name
+      value: Jeff Turnbuckle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.size
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[0].Text
+      value: "Hello, is anyone home? \u201CI\u2019m a Detective working for Detectives
+        without Borders."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[1].Text
+      value: '....Yes... I am here, but I am a bit shaken up. I would invite you in,
+        but I have not been myself since the incident...'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[2].Text
+      value: Could you go over what happened?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[3].Text
+      value: '*Quite Sob* We have, excuse me, we HAD a nice retired widow living on
+        the Island named Ms. Jennifer.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[4].Text
+      value: She had been here the longest out of almost any of us, and was always
+        very sweet, and spent most of her free time on the beach, or tending to her
+        garden and fruit trees.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[5].Text
+      value: "When it was harvest time for her fruit trees, she would even bake everyone
+        on the Island a fresh pie.   I can\u2019t believe that anyone would do something
+        so horrible to a nice old lady!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].Text
+      value: Do you remember seeing anything strange or suspicious?  Or do you know
+        of anyone who would want to hurt Ms.Jennifer?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[7].Text
+      value: '....Nothing comes to mind.  Everything seemed so normal, so peaceful.  All
+        the days blended together, just the 5(can be changed) of us on the island.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].Text
+      value: Thank you for your time, and I need a name for the report.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[9].Text
+      value: My name is Jeff.  Jeff Turnbuckle.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Name
+      value: Jeff Turnbuckle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[10].Text
+      value: Thank you Mr. Turnbuckle.  I will not rest until there is justice for
+        Ms. Jennifer.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[11].Text
+      value: My name is Jeff.  Jeff Turnbuckle.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[12].Text
+      value: My name is Jeff.  Jeff Turnbuckle.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[10].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _TempName
+      value: Mysterious Person
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[9].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _prompt
+      value: Talk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Note
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 72.76877
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 56.16471
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c99bd23273dea84da6b59754d7ffa16, type: 3}

@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &141956736506999593
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 553282372963535240}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_Name
+      value: CandleStick
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.35823122
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 01819a60dfea85c4f905cd27c8a6f0af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 01819a60dfea85c4f905cd27c8a6f0af, type: 3}
+--- !u!1001 &2744636611641669905
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2430623387967877272, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_Name
+      value: Candlestick
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623386419343283, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623386419343283, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623386419343283, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623386419343283, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480606437210630433, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: _Name
+      value: Candlestick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480606437210630433, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: _Description
+      value: A nice candlestick. Useful for providing light. They get used for murder
+        in a lot of stories.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877274, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 3.5116196
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877274, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877274, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 1.6713217
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877274, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_Center.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623387967877274, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.5164831
+      objectReference: {fileID: 0}
+    - target: {fileID: 2430623388234457351, guid: db833225de7516e46bbd48a653ffb4f3,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: db833225de7516e46bbd48a653ffb4f3, type: 3}
+--- !u!4 &553282372963535240 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2430623387967877273, guid: db833225de7516e46bbd48a653ffb4f3,
+    type: 3}
+  m_PrefabInstance: {fileID: 2744636611641669905}
+  m_PrefabAsset: {fileID: 0}

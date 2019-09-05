@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &280862294625423330
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6800627866868820111, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_Name
+      value: Gary
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[5].Text
+      value: "He did find her a bit too loud for his quiet island lifestyle, but he
+        would never have hurt her.  He couldn\u2019t even if he wanted to."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].Text
+      value: "So you\u2019ve been with him, and he\u2019s been with you all last week?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[7].Text
+      value: "That\u2019s right."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].Text
+      value: Thank you for your time.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[9].Text
+      value: How about yourself!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[0].Text
+      value: "Hello Gary?  I\u2019m with Detectives without borders, and I\u2019ve
+        got some questions."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[0].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Name
+      value: Josephine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[1].Text
+      value: "Hello Officer.  I\u2019m afraid Gary can\u2019t come to the door right
+        now..."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _TempName
+      value: Gary
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[2].Text
+      value: Who are you?  And why not?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[3].Text
+      value: "I\u2019m his nurse, Josephine.  He has an illness that has him bedridden.
+        \ He hasn\u2019t left the house in over 3 years."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _prompt
+      value: Talk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[4].Text
+      value: "I heard that he didn\u2019t get along too well with Ms. Josephine."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[4].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].Player
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[7].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[6].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[5].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[4].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[3].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Senteces.Array.data[8].KnowName
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820104, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: _Note
+      value: He seems the be bed ridden. His nurse Ms. Josephine has been with him
+        all last week.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627866868820105, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800627865439726027, guid: 0c99bd23273dea84da6b59754d7ffa16,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c99bd23273dea84da6b59754d7ffa16, type: 3}
